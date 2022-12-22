@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyaso03&label=Profile%20views&color=0e75b6&style=flat" alt="elyaso03" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React/Redux**
 
 - 👨‍💻 All of my projects are available at [https://elyasozbek.dev/](https://elyasozbek.dev/)
 
