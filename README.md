@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elyas Ozbek</h1>
-<h3 align="center">My name is Elyas Ozbek. I'm a junior web developer that recently underwent the Full-Stack Web Development Bootcamp course from DigitalCrafts.</h3>
+<h3 align="center">I'm a junior web developer that recently underwent the Full-Stack Web Development Bootcamp course from DigitalCrafts.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyaso03&label=Profile%20views&color=0e75b6&style=flat" alt="elyaso03" /> </p>
