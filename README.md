@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://elyasozbek.dev/](https://elyasozbek.dev/)
 
-- ⚡ Fun fact **I am proficient in four languages, including Uzbeki, Farsi, Turkish and English.**
+- ⚡ Fun fact **I am proficient in four languages, including Uzbeki, Dari, Farsi, Turkish and English.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
